@@ -1,0 +1,13 @@
+.change{
+    border: 2px solid white;
+    height: 434px;
+    align-items: center;
+    padding: 151px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    width: 640px;
+    box-shadow: 10px 10px 10px 10px grey;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
